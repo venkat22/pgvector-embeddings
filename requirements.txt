@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+pgvector
+sqlalchemy
+psycopg2
+pandas
